@@ -1,0 +1,79 @@
+training_data,C:\Users\ezxac5\Documents\GitHub\Materials-Discovery\Machine_learning\Active_learning\Pyrochlore_database_atomic_param_unnormalized.csv
+Iterations,10000
+LaA,0.4
+NdA,0.25
+CeA,0.35
+ZrB,1.0
+Distance,0.00011487277744426372
+RA,1.141299998965985
+RB,0.7200000000504162
+MA,140.66328791101924
+MB,91.2240000060975
+Distance,0.00011487277744426372
+0,Target parameters
+RA,1.088830323
+RB,0.72
+MA,165.2974016271596
+MB,91.224
+0,Constraints
+num_A,3
+num_B,1
+LaA,1
+NdA,1
+SmA,1
+GdA,1
+EuA,1
+TnA,1
+YbA,1
+YA,1
+DyA,1
+HoA,1
+ErA,1
+PrA,1
+CeA,1
+ZrB,1
+HfB,0
+SnB,0
+CeB,0
+TiB,0
+0,Surrogate Model Parameters
+Model_name,model_linear_RA
+copy_X,True
+fit_intercept,True
+n_jobs,
+normalize,deprecated
+positive,False
+Model_name,model_linear_RB
+copy_X,True
+fit_intercept,True
+n_jobs,
+normalize,deprecated
+positive,False
+Model_name,model_linear_MA
+copy_X,True
+fit_intercept,True
+n_jobs,
+normalize,deprecated
+positive,False
+Model_name,model_linear_MB
+copy_X,True
+fit_intercept,True
+n_jobs,
+normalize,deprecated
+positive,False
+0,Normalization parameters
+RA,0.985,1.16
+RB,0.605,0.87
+MA,88.90585,173.04
+MB,47.867,134.857
+0,Top 10 compositions
+0,1,"{'LaA': 0.4, 'NdA': 0.25, 'CeA': 0.35, 'ZrB': 1.0, 'Distance': 0.00011487277744426372}"
+1,2,"{'LaA': 0.4, 'NdA': 0.25, 'CeA': 0.35, 'ZrB': 1.0, 'Distance': 0.00011487277744426372}"
+2,3,"{'LaA': 0.4, 'NdA': 0.25, 'CeA': 0.35, 'ZrB': 1.0, 'Distance': 0.00011487277744426372}"
+3,4,"{'LaA': 0.4, 'NdA': 0.25, 'CeA': 0.35, 'ZrB': 1.0, 'Distance': 0.00011487277744426372}"
+4,5,"{'LaA': 0.4, 'NdA': 0.25, 'CeA': 0.35, 'ZrB': 1.0, 'Distance': 0.00011487277744426372}"
+5,6,"{'LaA': 0.4, 'NdA': 0.25, 'CeA': 0.35, 'ZrB': 1.0, 'Distance': 0.00011487277744426372}"
+6,7,"{'LaA': 0.4, 'NdA': 0.25, 'CeA': 0.35, 'ZrB': 1.0, 'Distance': 0.00011487277744426372}"
+7,8,"{'LaA': 0.4, 'NdA': 0.25, 'CeA': 0.35, 'ZrB': 1.0, 'Distance': 0.00011487277744426372}"
+8,9,"{'LaA': 0.4, 'NdA': 0.25, 'CeA': 0.35, 'ZrB': 1.0, 'Distance': 0.00011487277744426372}"
+9,10,"{'LaA': 0.4, 'NdA': 0.25, 'CeA': 0.35, 'ZrB': 1.0, 'Distance': 0.00011487277744426372}"

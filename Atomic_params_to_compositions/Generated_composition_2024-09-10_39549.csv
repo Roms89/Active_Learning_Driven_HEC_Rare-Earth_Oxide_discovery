@@ -1,0 +1,39 @@
+training_data,C:\Users\ezxac5\Documents\GitHub\Materials-Discovery\Machine_learning\Active_learning\Pyrochlore_database_atomic_param_unnormalized.csv
+Iterations,200000
+NaN,NaN
+NaN,NaN
+0,Target parameters
+RA,1.16
+RB,0.7149669713545983
+MA,138.84340332873674
+MB,134.87744083414864
+Entropy_conf,0.8087948388051797
+0,Constraints
+num_A,4
+num_B,3
+LaA,1
+NdA,1
+SmA,1
+GdA,1
+EuA,1
+TmA,1
+YbA,1
+YA,1
+DyA,1
+HoA,1
+ErA,1
+PrA,1
+CeA,1
+ZrB,1
+HfB,1
+SnB,1
+CeB,1
+TiB,1
+0,Normalization parameters
+RA,0.985,1.16
+RB,0.605,0.87
+MA,88.90585,173.04
+MB,47.867,134.857
+Entropy_conf,0.0,3.0
+0,Top 10 compositions
+""
